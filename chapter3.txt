@@ -13,4 +13,8 @@ git checkout filename.txt - to rollback to prev comited version.
 git remote add origin link
 git push -u origin main
 
+//to merge branches
+go to main branch and then run this
+git merge bname
+//to escape Vim enter !q 
 
