@@ -1,0 +1,4 @@
+Hello my name is kavin dev. This is the first step on my github journey. 
+Whoa i did not use graphical interface to create and navigate to this text file. very cool.
+
+i just used open -a /Application/tab filename.txt
