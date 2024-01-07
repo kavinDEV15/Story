@@ -1,1 +1,16 @@
 hello came to here by using touch, still havent commited itthough.
+
+okay, here are the git commands i learnt.
+
+git init - to initialize git into a directory
+git add sample.txt - to add a file into the repo(intermediate lane)
+git log - to view the status of the files in directory
+git commit -m "this is a sample message in present tense only" - to log into the version control.
+git diff filename.txt - we can find the difference.
+git checkout filename.txt - to rollback to prev comited version.
+
+//to create a remote git
+git remote add origin link
+git push -u origin main
+
+
